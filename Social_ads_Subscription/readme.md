@@ -1,6 +1,5 @@
-this machine learning model based on the social ads where the
+Machine learning classification model based on the social ads where the
 user with age and estimated salary will subscribe their plan
 or not.
-
-langauage used Python
+Algorithm used Kernel SVM in Python
 
